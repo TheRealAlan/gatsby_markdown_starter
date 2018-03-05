@@ -9,4 +9,7 @@ gatsby develop
 
 # Generate a blank blog post
 scripts/blog "My Title"
+
+# or
+npm run blog "My Title"
 ```
